@@ -1,0 +1,40 @@
+{
+  "name": "seaport-stream",
+  "version": "0.0.1",
+  "description": "Create streams over seaport",
+  "keywords": [],
+  "author": "Raynos <raynos2@gmail.com>",
+  "repository": "git://github.com/Raynos/seaport-stream.git",
+  "main": "index",
+  "homepage": "https://github.com/Raynos/seaport-stream",
+  "contributors": [
+    {
+      "name": "Jake Verbaten"
+    }
+  ],
+  "bugs": {
+    "url": "https://github.com/Raynos/seaport-stream/issues",
+    "email": "raynos2@gmail.com"
+  },
+  "dependencies": {
+    "seaport": "~0.8.0",
+    "deck": "0.0.4",
+    "pause-stream": "0.0.3",
+    "request": "~2.10.0",
+    "through": "~0.1.4",
+    "event-stream": "~2.2.0"
+  },
+  "devDependencies": {
+    "testling": "git://github.com/Raynos/testling#master",
+    "testem": "git://github.com/Raynos/testem#master",
+    "sinon": "git://github.com/Raynos/Sinon.JS.git",
+    "tap": "0.2.5"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://github.com/Raynos/seaport-stream/raw/master/LICENSE"
+    }
+  ],
+  "scripts": {}
+}
