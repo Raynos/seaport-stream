@@ -1,4 +1,4 @@
-# seaport-stream [![build status][1]][2]
+# seaport-stream
 
 Create streams over seaport
 
